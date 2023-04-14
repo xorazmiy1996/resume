@@ -1,0 +1,6 @@
+.about .container .overflow p{
+    height: 150px;
+    overflow: auto;
+    border: 2px solid black;
+    padding: 15px;
+}
